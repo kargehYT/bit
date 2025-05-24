@@ -24,7 +24,7 @@ header {
 nav {
     border-top: 5px solid white;
     border-bottom: 5px solid white;
-    padding: 25px 300px 25px 95px;
+    padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
 }
@@ -113,6 +113,6 @@ background-color:#FF7389;
     position: fixed;
 top: 150px;
 right: 0px;
-left: 780px;
+left: 1200px;
 background-color: #850AE5;
 }
