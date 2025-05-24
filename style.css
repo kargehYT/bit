@@ -24,7 +24,7 @@ header {
 nav {
     border-top: 5px solid white;
     border-bottom: 5px solid white;
-    padding: 25px 100px 25px 95px;
+    padding: 25px 300px 25px 95px;
     display: flex;
     justify-content: space-between;
 }
